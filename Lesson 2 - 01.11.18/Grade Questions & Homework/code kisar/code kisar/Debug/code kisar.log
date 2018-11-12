@@ -1,0 +1,4 @@
+﻿  1.cpp
+c:\users\barak\source\repos\code kisar\code kisar\1.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\barak\source\repos\code kisar\code kisar\1.cpp(30): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  code kisar.vcxproj -> C:\Users\Barak\source\repos\code kisar\Debug\code kisar.exe
